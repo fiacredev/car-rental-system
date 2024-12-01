@@ -1,3 +1,4 @@
+-- this is code is about Database you can import in your database evironment to deal with database usage 
 -- phpMyAdmin SQL Dump
 -- version 5.0.1
 -- https://www.phpmyadmin.net/
